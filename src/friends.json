@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Hipster 1",
+      "image": "./images/hipster1.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "name": "Hipster 2",
+      "image": "./images/hipster4.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "name": "Hipster 3",
+      "image": "./images/hipster6.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "name": "Hipster 4",
+      "image": "./images/hipster2.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "name": "Hipster 5",
+      "image": "./images/hipster7.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "name": "Hipster 6",
+      "image": "./images/hipster13.jpg",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "name": "Hipster 7",
+      "image": "./images/hipster3.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "name": "Hipster 8",
+      "image": "./images/hipster11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "name": "Hipster 9",
+      "image": "./images/hipster5.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "name": "Hipster 10",
+      "image": "./images/hipster10.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "name": "Hipster 11",
+      "image": "./images/hipster8.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "name": "Hipster 12",
+      "image": "./images/hipster12.png",
+      "clicked": false
+    }
+  ]
+  

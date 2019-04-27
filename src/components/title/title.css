@@ -1,0 +1,26 @@
+
+  .header {
+    background-color: #2c323c;
+    background-image: url("http://inn.spb.ru/images/000/DSC100028857.jpg");
+    background-repeat: repeat;
+    color: #fff;
+    min-height: 1%;
+    width: 100%;
+    padding: 180px 20px;
+    padding-bottom: 140px;
+    text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+  margin: 0 auto;
+  margin-top: 20px;
+  font-family: serif;
+  color: black;
+}
+
+h2, h3 {
+  font-family: serif;
+  color: black;
+}
+
