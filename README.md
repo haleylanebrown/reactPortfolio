@@ -4,7 +4,7 @@
 
 In this project, I created a simple memory game with React. The goal here was to break up the application's UI into components, manage component state, and respond to user events.
 
-![Game Screenshot][../images/clicky-game.png]
+![clicky-game](https://user-images.githubusercontent.com/47645417/56855360-0028c100-6903-11e9-9ecf-5029e85807ed.png)
 
 ### Instructions
 
