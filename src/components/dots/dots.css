@@ -1,0 +1,278 @@
+.dot, #dot1img {
+    height: 30vw;
+    width: 30vw;
+    background-color: #f3cf47;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 14vw;
+    left: 13vw;
+    z-index: 50;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+   
+  #image {
+      height: 20vw;
+      width: 20vw;
+      border-radius: 50%;
+      border: 1.3vw white solid;
+      display: inline-block;
+      position: fixed;
+      top: 27vw;
+      left: 20vw;
+      z-index: 100;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot2, #dot2img {
+    height: 17vw;
+    width: 17vw;
+    background-color: #e8685d;
+    border-radius: 50%;
+    border: solid 1.3vw #3a8d91;
+    display: inline-block;
+    position: fixed;
+    top: 16vw;
+    left: 13vw;
+    z-index: 75;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot3, #dot3img{
+    height: 25vw;
+    width: 25vw;
+    background-color:white;
+    border: solid 1.3vw 
+    black;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 20vw;
+    left: 2vw;
+    z-index: 25;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  
+  .dot4, #dot4img{
+    height: 14vw;
+    width: 14vw;
+    background-color: #f3cf47;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 23vw;
+    left: 35vw;
+    z-index: 80;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot5, #dot5img {
+    height: 25vw;
+    width: 25vw;
+    background-color: 
+    black;
+    border-radius: 50%;
+    border: solid 1.3vw #e8685d;
+    display: inline-block;
+    position: fixed;
+    top: 18vw;
+    left: 33vw;
+    z-index: 20;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot6, #dot6img {
+    height: 14vw;
+    width: 14vw;
+    background-color: #e8685d;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 34vw;
+    left: 47vw;
+    z-index: 20;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot7, #dot7img {
+    height: 16vw;
+    width: 16vw;
+    background-color: #3a8d91;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 22vw;
+    left: 53vw;
+    z-index: 22;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot8 {
+    height: 18vw;
+    width: 18vw;
+    background-color: #f3cf47;
+    border: solid 1.3vw white;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 28vw;
+    left: 57vw;
+    z-index: 18;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  #dot8img {
+    height: 18vw;
+    width: 18vw;
+    background-color: #f3cf47;
+    border: solid 1.3vw white;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 28vw;
+    left: 57vw;
+    z-index: 18;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot9, #dot9img {
+    height: 10vw;
+    width: 10vw;
+    background-color:  #e8685d;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 22vw;
+    left: 65vw;
+    z-index: 50;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot10, #dot10img {
+    height: 12vw;
+    width: 12vw;
+    background-color: 
+    black;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 30vw;
+    left: 72vw;
+    z-index: 50;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot11, #dot11img {
+    height: 8vw;
+    width: 8vw;
+    background-color: #3a8d91;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 37vw;
+    left: 80vw;
+    z-index: 60;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot12, #dot12img {
+    height: 9vw;
+    width: 9vw;
+    background-color: white;
+    border: solid 1.3vw #f3cf47 ;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 28vw;
+    left: 82vw;
+    z-index: 70;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .dot13, #dot13img {
+    height: 7vw;
+    width: 7vw;
+    background-color:#e86f5c;
+    border-radius: 50%;
+    display: inline-block;
+    position: fixed;
+    top: 33vw;
+    left: 89vw;
+    z-index: 80;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  
+  .parallax__group {
+    position: relative;
+    height: 500px; /* fallback for older browsers */
+    height: 100vh;
+    -webkit-transform-style: preserve-3d;
+    transform-style: preserve-3d;
+  }
+  
+  .parallax__layer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+  }
+  
+  .parallax__layer--fore {
+    -webkit-transform: translateZ(90px) scale(.7);
+    transform: translateZ(90px) scale(.7);
+    z-index: 1;
+  }
+  
+  .parallax__layer--base {
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    z-index: 4;
+  }
+  
+  .parallax__layer--back {
+    -webkit-transform: translateZ(-300px) scale(2);
+    transform: translateZ(-300px) scale(2);
+    z-index: 3;
+  }
+  
+  .parallax__layer--deep {
+    -webkit-transform: translateZ(-600px) scale(3);
+    transform: translateZ(-600px) scale(3);
+    z-index: 2;
+  }
+  
+  /* style the groups
+  --------------------------------------------- */
+  
+  #group4 {
+    z-index: 2; /* slide under group 3 and 5 */
+
+  }
+
+
+  @media only screen and (max-width: 730px) {
+    #group4 {
+      margin-bottom: -70vw;
+    }
+  }
+  
+  @media only screen and (max-width: 550px) {
+    #group4 {
+      margin-bottom: -100vw
+    }
+  }
+
+  @media only screen and (max-width: 475px) {
+    #group4 {
+      margin-bottom: -110vw
+    }
+  }
+  
+  @media only screen and (max-width: 415px) {
+    #group4 {
+      margin-bottom: -130vw
+    }
+  }

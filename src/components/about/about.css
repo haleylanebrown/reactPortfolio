@@ -1,0 +1,41 @@
+/* #aboutDiv {
+    position: fixed;
+    top: 400px
+} */
+
+
+.aboutDiv{
+    position: relative;
+    top: 40vw;
+    background-color: 
+    #e8685d;
+    border: 5vw white solid;
+    height: auto;
+    width: 100vw;
+    z-index: 2500
+  }
+  
+  #about2 {
+    font-family: 'League Script', cursive;
+    z-index: 100;
+    color: #f3cf47;
+    font-size: 80px;
+    position: relative;
+    top: 25px;
+    left: 20px;
+    padding: none
+  }
+  
+  #aboutSection {
+    font-family: 'Patua One', cursive;
+    font-size: 25px;
+    padding: 4vw;
+    padding-top: 25px
+  }
+  
+  #about1 {
+    font-family:'Nunito', sans-serif;
+    color: white
+  }
+  
+  

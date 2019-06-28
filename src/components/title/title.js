@@ -1,12 +1,21 @@
 import React from "react";
 import "./title.css";
+import About from "../about/about";
+import Resume from "../resume/resume"
+// import div from 'react-reveal/div';
 
-function Title() {
-  return <header className="header">
-  <h1>Hipster Clicky Game</h1>
-  <h2>Click on a hipster to earn points, but don't click on any more than once!</h2>
-  <h3>It might be tricky, because let's be real - all hipsters look the same</h3>
-  </header>;
+class Title extends React.Component{
+  render() {
+    return (
+      <div className="wrap">
+      <p className="text">HALEY</p>
+      <p className="text">HALEY</p>
+      <p className="text">HALEY</p>
+      <p className="crack"></p>
+      <p className="last-name">brown</p>
+    </div>
+      )
+  }
 }
 
 export default Title;

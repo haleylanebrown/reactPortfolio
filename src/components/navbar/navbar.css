@@ -1,21 +1,48 @@
-.navbar li {
-    display: inline-block;
-    width: 33.3%;
-    text-align: center;
-    margin-top: 0px;
-    font-family: serif
+html {
+  scroll-behavior: smooth;
+}
+
+.bm-cross {
+    background: 
+    #f3cf47;
+  }
+
+.bm-menu {
+    background: 
+    #3a8d91;
+  }
+
+  .bm-morph-shape {
+    fill: 
+    #3a8d91;
+  }
+
+  .bm-item-list {
+    color:black;
+    padding: 0.8em;
+  }
+
+  .bm-burger-button {
+    position: fixed;
+    width: 36px;
+    height: 30px;
+    left: 36px;
+    top: 36px;
   }
   
-  .navbar {
-      background: #68a1b8;
-      min-height: 70px;
-      position: fixed;
-      margin-top: 0px;
-      width: 100%;
-      -webkit-box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
-      box-shadow: 0 14px 28px rgba(0,0,0,.25), 0 10px 10px rgba(0,0,0,.22);
-      color: #fff;
-      font-size: calc(10px + 14 * (100vw - 320px)/ 800);
-      z-index: 100;
-      white-space: nowrap;
+  /* Color/shape of burger icon bars */
+  .bm-burger-bars {
+    background: black;
   }
+
+  .menu-item {
+      font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+      font-size: 20px;
+      color: #f3cf47
+  }
+
+#homeNav, #aboutNav, #skillsNav, #techniquesNav, #educationNav, #recentNav {
+  font-size: 30px;
+  font-family:'Nunito', sans-serif;
+  
+}
